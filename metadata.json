@@ -1,0 +1,6 @@
+{
+  "name": "Roblox CS:GO Parkour 1.25x - Obby & Knives",
+  "description": "Jogo 3D de parkour estilo Roblox com física acelerada em 1.25x, facas de CS:GO inspecionáveis (Karambit, Butterfly), skins personalizáveis e sistema de ranks global competitivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
